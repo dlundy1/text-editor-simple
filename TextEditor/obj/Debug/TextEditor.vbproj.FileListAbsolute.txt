@@ -1,0 +1,12 @@
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojResolveAssemblyReference.cache
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.resources
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.Cache
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.xml
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.childForm.resources
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem5_WA\TextEditor\TextEditor\obj\Debug\TextEditor.parent.resources
